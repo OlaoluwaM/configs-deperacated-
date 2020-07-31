@@ -1,0 +1,4 @@
+{
+  // To add autocompletion to cypress
+  "include": ["./node_modules/cypress", "cypress/**/*.js"]
+}
